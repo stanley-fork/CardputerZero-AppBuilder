@@ -1,8 +1,0 @@
-[submodule "emulator"]
-	path = emulator
-	url = https://github.com/CardputerZero/M5CardputerZero-Emulator.git
-	branch = main
-[submodule "apps/nc2000"]
-	path = apps/nc2000
-	url = https://github.com/eggfly/CardputerZero-NC2000.git
-	branch = ci-cd
